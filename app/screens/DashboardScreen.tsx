@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   },
   header: {
     paddingHorizontal: 20,
-    paddingTop: 50,  // Ajusté el espacio superior aquí para bajar el encabezado
+    paddingTop: 50,  
     paddingBottom: 20,
     borderBottomWidth: 1,
     borderBottomColor: 'rgba(255, 255, 255, 0.1)',
